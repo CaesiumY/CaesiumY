@@ -7,7 +7,7 @@
 ### *Steadiness makes an Icon🌠*
 - 🛴A passionate and patient Front-end Engineer.
   
-- 😅Unfortunately, I'm on a Military Service as a SSA which means **NOT** available to get a Job *except for special cases*.
+- 😅Unfortunately, I'm on a Military Service as a SSA which means **NOT** available for getting a Job *except for special cases*.
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact)
 
