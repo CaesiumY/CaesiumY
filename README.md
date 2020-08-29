@@ -15,8 +15,8 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact" />
-</a> <a href="https://github.com/anuraghazra/convoychat">
+</a> <a href="https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue&count_private=true&hide=contribs">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue&count_private=true&hide=contribs" />
 </a>
