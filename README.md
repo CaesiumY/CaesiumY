@@ -8,7 +8,15 @@
 - 🛴A passionate and patient Front-end Engineer.
   
 - 😅Unfortunately, I'm on a Military Service as a SSA which means **NOT** available to get a Job *except for special cases*.
-
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact)
 
-![caesiumy's github stats](https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue)
+![caesiumy's github stats](https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue) -->
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact" />
+</a> <a href="https://github.com/anuraghazra/convoychat">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue&count_private=true&hide=contribs" />
+</a>
