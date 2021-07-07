@@ -14,9 +14,3 @@
 ![caesiumy's github stats](https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue) -->
 
 <br>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact&hide_border=true">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact&hide_border=true" />
-</a> <a href="https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue&count_private=true&hide=contribs&hide_border=true">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue&count_private=true&hide=contribs&hide_border=true" />
-</a>
