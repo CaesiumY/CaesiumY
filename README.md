@@ -9,6 +9,6 @@
 
 ### *Steadiness makes an Icon🌠*
 - 🛴A passionate and patient Front-end Engineer.
-- Finally I'm Free!
+- 🎉Finally I'm Free!
   
 <br>
