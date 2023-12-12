@@ -5,5 +5,3 @@
 [![followers](https://img.shields.io/github/followers/caesiumy?style=for-the-badge&logo=github&link=https://github.com/CaesiumY)](https://github.com/CaesiumY)
 ---
 [![wakatime](https://wakatime.com/badge/user/3b78f42b-d932-4c9b-93ee-2784f15d9b5f.svg?style=for-the-badge)](https://wakatime.com/@3b78f42b-d932-4c9b-93ee-2784f15d9b5f)
-
-[![Caesiumy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Caesiumy&layout=compact&langs_count=20&border_radius=0)](https://wakatime.com/@Caesiumy)
