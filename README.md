@@ -5,6 +5,3 @@
 [![followers](https://img.shields.io/github/followers/caesiumy?style=for-the-badge&logo=github&link=https://github.com/CaesiumY)](https://github.com/CaesiumY)
 ---
 [![wakatime](https://wakatime.com/badge/user/3b78f42b-d932-4c9b-93ee-2784f15d9b5f.svg?style=for-the-badge)](https://wakatime.com/@3b78f42b-d932-4c9b-93ee-2784f15d9b5f)
-
-### 📚 Currently, I am deeply engaged in translating a book, which has led to a temporary slowdown in my development activities. 
-- I'm exploring new knowledge, and I hope to reconnect with you all soon, enriched with more experiences!
